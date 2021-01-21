@@ -1,0 +1,90 @@
+*{
+	font-family: Calibri;
+}
+.head
+{
+	padding: 5px;
+}
+.head img 
+{
+	float: left;
+	margin-left: 5%;
+	background-color: cyan;
+}
+.head h1
+{
+	color: cyan;
+	padding: 8px;
+	font-size: 60px;
+	margin-left: 30%;
+}
+.head h3
+{
+	font-size: 20px;
+	padding: 3px;
+	margin-left: 30%;
+}
+.head p
+{
+	color: gray;
+	margin-left: 30%;
+}
+.contact 
+{
+	float: left;
+	padding: 5px;
+	margin-left: 5%;
+}
+.contact h4
+{
+	color: cyan;
+}
+.contact p
+{
+	color: gray;
+}
+.edu
+{
+	padding: 10px;
+	margin-left: 30%;
+}
+.edu h4
+{
+	color: cyan;
+}
+.edu p
+{
+	color: gray;
+}
+.cours
+{
+	margin-left: 30%;
+	padding: 2%;
+}
+.cours h4
+{
+	color: cyan;
+}
+.cours p
+{
+	color: gray;
+}
+.spec
+{
+	float: left;
+	padding: 5px;
+	margin-left: 5%;
+}
+.spec p
+{
+	color: gray;
+}
+.lang
+{
+	padding: 5px;
+	margin-left: 30%;
+}
+.lang p
+{
+	color: gray;
+}
